@@ -1,1 +1,1 @@
-# This folder contains sample data structure code using python
+# This folder contains sample data structure codes using python
