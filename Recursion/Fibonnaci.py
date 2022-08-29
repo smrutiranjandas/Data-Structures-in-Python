@@ -11,5 +11,5 @@ def findFibonacci(intNum):
         return intFib
         
 # Print fibonnaci numbers from 1 to 20        
-for i in range(1, 20):
+for i in range(1, 21):
     print(findFibonacci(intNum=i))
